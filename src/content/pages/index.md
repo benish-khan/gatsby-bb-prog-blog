@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Daniel English
-tagline: Blockchain Developer and Knower of all things Crypto!
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Benish Khan 
+tagline: Learner.Builder.Reader.Foodie
+featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg  #save your pic as jpg file in the assets folder. 
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+A lifelong learner, Benish is a native of San Francisco.  Working as Solutions Engineer at Netlify.
